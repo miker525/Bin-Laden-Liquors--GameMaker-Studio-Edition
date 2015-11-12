@@ -24,7 +24,7 @@ As of right now I don't have any known bugs. I believe I got rid of any bugs I n
 
 ## Contributors
 
-Michael Rosenberg (a.k.a. Mike Rosenberger, a.k.a. Miker525) - Developing the Game Maker: Studio version of the game. Made this git repo. Ripped the assets. Put the thing together!
+Michael Rosenberg (a.k.a. Mike Rosenberger, a.k.a. Miker525) - Developing the Game Maker: Studio version of the game. Made this git repo. Ripped the assets. Put the thing together!  
 Keith E. Fieler - Developer of the original Flash game over 10 years ago! 
 
 ## License
